@@ -1,0 +1,11 @@
+pandas
+numpy 
+seaborn
+matplotlib
+streamlit
+xgboost
+shap
+joblib
+random forest
+svm
+knn
