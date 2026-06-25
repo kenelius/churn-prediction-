@@ -6,6 +6,5 @@ streamlit
 xgboost
 shap
 joblib
-random forest
 svm
 knn
